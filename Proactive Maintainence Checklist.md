@@ -50,8 +50,6 @@
 - **Check Action Site Versions on Relays**  
   - [GitHub Link: ActionSite Version on Relays Query](https://github.com/mpaishon/HelpfulSessionRelQueries/blob/main/Actionsite%20version%20on%20relays.md)
 
-- **Evaluate Weekly**
-
 ---
 
 ## Event-Driven Tasks
