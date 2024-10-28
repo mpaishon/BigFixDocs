@@ -19,8 +19,9 @@
   - [GitHub Link: Query Sites in Prefetch for Whitelist](https://github.com/mpaishon/HelpfulSessionRelQueries/blob/main/Query%20Sites%20in%20Prefetch%20for%20Whitelist.md)
 
 - **Verify Core Root Services**
-- **Verification of Completion for SQL Maintenance Jobs**
   - Verify `FillDB`, `Root`, and `GatherDB` completion.
+- **Verification of Completion for SQL Maintenance Jobs**
+
 
 ---
 
